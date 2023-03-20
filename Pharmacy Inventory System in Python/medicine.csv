@@ -1,0 +1,4 @@
+medi_name,med_id,sale,unit,quantity,min_quantity,comp_name,sup_id,to_pur
+Covid Shots,1,12,15,50,10,Roblex,1,0
+Paracetamol,2,2,4,70,10,Abenson,1,0
+Panadol,0001,10.0,8.0,100,20,Panadol inc,2023,0
